@@ -1,13 +1,13 @@
 # Portfolio
 
 ### Education
-PhD
+PhD <br/>
 BEng
 
 ### Projects
-Data Science Projects
-Holography
-BEng Final Project
+Data Science Projects <br/>
+Holography <br/>
+BEng Final Project <br/>
 
 ### Work Experience
 Graduate Teaching Assistant
