@@ -17,7 +17,7 @@ Graduate Teaching Assistant
 #### Technical Skills: Python, SQL, MATLAB, C++, Java
 
 ## Education
-- PhD, Electronics Engineering, The University of Yor (_Present_)								       		
+- PhD, Electronics Engineering, The University of York (_Present_)								       		
 - BEng, Electronics Engineering with Business Management, The University of York, 1st Class Honours (_June 2021_)
 
 ## Work Experience
