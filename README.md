@@ -18,7 +18,7 @@ Graduate Teaching Assistant
 
 ## Education
 - PhD, Electronics Engineering, The University of Yor (_Present_)								       		
-- BEng, Electrnics Engineering with Business Management, The University of York, 1st Class Honours (_June 2021_)
+- BEng, Electronics Engineering with Business Management, The University of York, 1st Class Honours (_June 2021_)
 
 ## Work Experience
 **Graduate Teaching Assistant @ The University of York (_October 2022 - April 2023_)**
