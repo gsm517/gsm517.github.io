@@ -16,7 +16,7 @@
 **Fellow @ R42 Institute (_June 2021 - August 2021_)**
 - Collabrated to identify a novel research objective within the field of holography
 - Developed a pipeline to stream holographic data
-- Constructed a holographic projector to display streamed video data
+- Constructed a holographic projector to display streamed video data,
 [Publication](https://doi.org/10.1002/sdtp.15622)
 
 ## Projects
