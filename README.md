@@ -1,19 +1,5 @@
 # Portfolio
 
-### Education
-PhD <br/>
-BEng
-
-### Projects
-Data Science Projects <br/>
-Holography <br/>
-BEng Final Project <br/>
-
-### Work Experience
-Graduate Teaching Assistant
-
-# Portfolio
-
 #### Technical Skills: Python, SQL, MATLAB, C++, Java
 
 ## Education
