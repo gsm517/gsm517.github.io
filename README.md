@@ -3,9 +3,6 @@
 #### Technical Skills: Python, Data Visualisation, MATLAB, C++, Java, Neural Networks, Computational Neuroscience, Neuromorphic Computing, Machine Learning
 
 ## Projects
-R42 Project
-PhD work
-
 ### World Happiness Report Dashboard
 [App Webpage](https://gsm517-world-happiness-dashboard-main-qodabn.streamlit.app/)
 [Github Repo](https://github.com/gsm517/World-Happiness-Dashboard)
@@ -18,6 +15,8 @@ PhD work
 - Facilitated the running of the first live holographic video stream by building the holographic projector,  refactoring code and coordinating team members across multiple time zones. 
 - Presented the video stream as a live demo to an audience of over 100 attendees.
 - Later published our work as a scientific paper at the SID Display Week conference.
+![Projector](/assets/img/projector.jpg)
+![Hologram](/assets/img/hologram.png)
 
 ### Maze Navigation Spiking Neural Network
 - Researched and implemented spiking neuron models to form a spiking neural network with the purpose of traversing a maze, searching for a target node.
@@ -28,7 +27,7 @@ PhD work
 - Created a GUI which allowed the user to add or remove birds, and set a flocking value which caused an attraction between the birds causing them to fly as a flock.
 
 ## Education
-- PhD, Electronics Engineering, The University of York (_Present_)								       		
+- PhD, Electronics Engineering, The University of York (_Present_)							       		
 - BEng, Electronics Engineering with Business Management, The University of York, 1st Class Honours (_June 2021_)
 
 ## Work Experience
@@ -44,6 +43,8 @@ PhD work
 - Constructed a holographic projector to display streamed video data,
 [Publication](https://doi.org/10.1002/sdtp.15622)
 
-## Talks & Lectures
-- School of PET Departmental PhD Conference: Neuromorphic navigation for planar motion using events, June 2024 - Best 3rd Year Seminar
-- R42 Institute Demo Day: A Real-Time Full-Color 3D Holographic (Diffractive) Video Capture, Processing, and Transmission, August 2021
+## Talks & Demonstrations
+- Neuromorphic navigation for planar motion using events, School of PET Departmental PhD Conference, June 2024 - **Best 3rd Year Seminar**
+- Event-Based Processing for 3 Degrees Of Freedom SLAM, School of PET Departmental PhD Conference, June 2023
+- Bio-Inspired SLAM using Neuromorphic Sensing and Computing, School of PET Departmental PhD Conference, June 2022
+- A Real-Time Full-Color 3D Holographic (Diffractive) Video Capture, Processing, and Transmission, R42 Institute Demo Day, August 2021
