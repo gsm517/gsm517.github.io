@@ -32,16 +32,13 @@
 
 ## Work Experience
 **Graduate Teaching Assistant @ The University of York (_October 2022 - April 2023_)**
-- Guided students as a teaching assistant in weekly python lab sessions and marked final submissions at the end of the module 
-- Marked weekly assignments for foundation year Mathematics
-- Served as an comarker for presentations in the Engineering Management MSc course
-- Provided guidance as a teaching assistant in Control module matlab lab sessions
-
 **Fellow @ R42 Institute (_June 2021 - August 2021_)**
-- Collabrated to identify a novel research objective within the field of holography
-- Developed a pipeline to stream holographic data
-- Constructed a holographic projector to display streamed video data,
-[Publication](https://doi.org/10.1002/sdtp.15622)
+**Lidl - Customer Assistant (_June 2018 to January 2019_)**
+**Dorrian Consultancy - Farm Hand - (_November 2017 to February 2018_)**
+**Tesco - Customer Assistant - (_August 2016 to May 2017_)**
+**Ricardo - Work Experience - (_August 2015_)**
+**Heriot Watt University - Headstart General Engineering Course - (_July 2015_)**
+**William Pye Ltd - Labourer - (_October 2014 to June 2015_)**
 
 ## Talks & Demonstrations
 - Neuromorphic navigation for planar motion using events, School of PET Departmental PhD Conference, June 2024 - **Best 3rd Year Seminar**
