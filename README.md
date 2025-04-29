@@ -1,6 +1,24 @@
 # Portfolio
 
-#### Technical Skills: Python, SQL, MATLAB, C++, Java
+#### Technical Skills: Python, Data Visualisation, MATLAB, C++, Java, Neural Networks, Computational Neuroscience, Neuromorphic Computing, Machine Learning
+
+## Projects
+### Project title 
+Final project
+R42 Project
+PhD work
+[Project Link](https://doi.org/10.1002/sdtp.15622)
+
+Project description
+![Project Image Title](/assets/img/eeg_band_discovery.jpeg)
+
+### World Happiness Report Dashboard
+[Project Link](https://gsm517-world-happiness-dashboard-main-qodabn.streamlit.app/)
+
+- Utilising Python libraries such as Pandas, Plotly, and Streamlit, to create an interactive dashboard to visualise information contained within the World Happiness Report dataset.
+- Implemented advanced visualisations such as choropleth maps in addition to more typical bar, box, and line charts.
+
+![Project Image Title](/assets/img/happiness_dashboard.png)
 
 ## Education
 - PhD, Electronics Engineering, The University of York (_Present_)								       		
@@ -18,16 +36,6 @@
 - Developed a pipeline to stream holographic data
 - Constructed a holographic projector to display streamed video data,
 [Publication](https://doi.org/10.1002/sdtp.15622)
-
-## Projects
-### Project title 
-Final project
-R42 Project
-PhD work
-[Project Link](https://doi.org/10.1002/sdtp.15622)
-
-Project description
-![Project Image Title](/assets/img/eeg_band_discovery.jpeg)
 
 ## Talks & Lectures
 - School of PET Departmental PhD Conference: Neuromorphic navigation for planar motion using events, June 2024 - Best 3rd Year Seminar
