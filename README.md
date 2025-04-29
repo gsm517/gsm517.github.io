@@ -4,19 +4,19 @@
 
 ## Projects
 ### World Happiness Report Dashboard
-[App Webpage](https://gsm517-world-happiness-dashboard-main-qodabn.streamlit.app/)
+[App Webpage](https://gsm517-world-happiness-dashboard-main-qodabn.streamlit.app/), 
 [Github Repo](https://github.com/gsm517/World-Happiness-Dashboard)
 - Utilising Python libraries such as Pandas, Plotly, and Streamlit, to create an interactive dashboard to visualise information contained within the World Happiness Report dataset.
 - Implemented advanced visualisations such as choropleth maps in addition to more typical bar, box, and line charts.
 ![World Happiness Dashboard](/assets/img/happiness_dashboard.png)
 
 ### Holograpghic Video Stream
-[Publication](https://doi.org/10.1002/sdtp.15622)
+[Publication](https://doi.org/10.1002/sdtp.15622) ![Hologram](/assets/img/hologram.png)
 - Facilitated the running of the first live holographic video stream by building the holographic projector,  refactoring code and coordinating team members across multiple time zones. 
 - Presented the video stream as a live demo to an audience of over 100 attendees.
 - Later published our work as a scientific paper at the SID Display Week conference.
 ![Projector](/assets/img/projector.jpg)
-![Hologram](/assets/img/hologram.png)
+
 
 ### Maze Navigation Spiking Neural Network
 - Researched and implemented spiking neuron models to form a spiking neural network with the purpose of traversing a maze, searching for a target node.
