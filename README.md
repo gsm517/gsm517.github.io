@@ -3,6 +3,12 @@
 #### Technical Skills: Python, Data Visualisation, MATLAB, C++, Java, Neural Networks, Computational Neuroscience, Neuromorphic Computing, Machine Learning
 
 ## Projects
+### Neuromorphic Computing for Bio-Inspired Navigation
+- Implemented Python workstreams for data handling (pandas, dask), neural network simulation, and visualisation (matplotlib). 
+- Operating on large volumes of data (10GB+ per data sequence) through the linux terminal and performing computation on a linux research server.
+- Presented findings to peers and faculty members, and was awarded for giving the best seminar from over 100 PhD students in the department.
+
+
 ### World Happiness Report Dashboard
 [App Webpage](https://gsm517-world-happiness-dashboard-main-qodabn.streamlit.app/), 
 [Github Repo](https://github.com/gsm517/World-Happiness-Dashboard)
